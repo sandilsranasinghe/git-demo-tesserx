@@ -4,8 +4,7 @@ def foo_function():
     print("This is an extra function that can be used in other modules.")
 
 def main():
-    print("This is the main function.")
-    print("You can run this script directly or import it as a module.")
+    print("The purpose of this function is to demonstrate a simple Python script.")
 
 if __name__ == "__main__":
     print("Hello, World!")
